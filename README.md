@@ -7,4 +7,4 @@ The main purpose of this project is to create a proof of concept that GitHub can
 You might ask "Why on earth would you do this?"
 The reason is because I'm broke and don't want to pay for Firebase Firestore.
 
-hosted here: [https://lordofdeadbush.github.io/counter-website/]
+hosted here: https://lordofdeadbush.github.io/counter-website/
