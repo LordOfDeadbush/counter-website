@@ -2,7 +2,7 @@ import { Octokit, App } from "https://cdn.skypack.dev/octokit";
 
 
 
-const GET_URL = "https://raw.githubusercontent.com/LordOfDeadbush/counter-website/main/count.txt";
+const GET_URL = "https://lordofdeadbush.github.io/counter-website/count.txt";
 const SHA_URL = "https://api.github.com/repos/LordOfDeadbush/counter-website/contents/count.txt";
 
 const octokit = new Octokit({
